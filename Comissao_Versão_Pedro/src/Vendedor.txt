@@ -1,4 +1,0 @@
-idVendedor;nomeVendedor
-1;Alan
-2;Marcio
-3;Zacarias

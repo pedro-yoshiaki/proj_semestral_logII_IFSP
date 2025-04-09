@@ -1,4 +1,0 @@
-idCategoria;nomeCategoria;comissaoCategoria
-1;Limpeza;0.3
-2;Alimento;0.2
-3;Eletrônico;0.5
