@@ -1,0 +1,4 @@
+idProduto;nomeProduto;valorProduto;idCategoria
+1;Alvejante;11.50;1
+2;Pão de Forma;8.00;2
+3;TV Smart;1500.00;3
